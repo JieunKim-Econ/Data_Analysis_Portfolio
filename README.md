@@ -4,7 +4,7 @@ This repository presents my learning journey of SQL with Datacamp🚀
 ## Project
 | Project | Summary | Completion Date |
 | --- | --- | --- |
-| `Analyze International Debt Statistics` | Write SQL queries to investigate international debt using The World Bank data. | February 2022 |
+| `Analyze International Debt Statistics` | Write SQL queries to investigate international debt using The World Bank data. <ul><li>The total amount of debt owed by the countries, the country with the highest debt </li><li>The average amount of debt owed by countriess across different debt indicators</li><li>The most common debt indicator</li></ul>| February 2022 |
 
 ## Career Track
 | Course | Summary | Completion Date |
