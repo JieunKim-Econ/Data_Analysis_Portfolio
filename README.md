@@ -1,10 +1,16 @@
-# Datacamp_SQL
-This repository presents my learning journey of SQL with Datacamp🚀
+# Datacamp_SQL and Python
+This repository presents my learning journey of SQL and Python with Datacamp🚀
 
-## Project
+## SQL Project
 | Project | Summary | Completion Date |
 | --- | --- | --- |
 | [`Analyze International Debt Statistics`](https://github.com/JieunKim-Econ/Datacamp_SQL/blob/main/Project/Analyze%20international%20debt%20statistics.ipynb) | Write SQL queries to investigate international debt using The World Bank data. <ul><li>The total amount of debt owed by the countries, the country with the highest debt </li><li>The average amount of debt owed by countriess across different debt indicators</li><li>The most common debt indicator</li></ul>| February 2022 |
+
+## 🐍Python Project
+| Project | Summary | Completion Date |
+| --- | --- | --- |
+| [`Investigating Netflix Movies`](https://github.com/JieunKim-Econ/Datacamp_SQL/blob/main/Project/Investigating%20Netflix%20Movies.ipynb) | | April 2022 |
+
 
 ## Career Track
 | Course | Summary | Completion Date |
