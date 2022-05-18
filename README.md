@@ -5,7 +5,7 @@ This repository presents my learning journey of SQL and Python with Datacamp🚀
 | Project | Summary | Completion Date |
 | --- | --- | --- |
 | [`The Android App Market on Google Play`](https://app.datacamp.com/workspace/w/260f41ea-d9e2-4203-8c69-d61cdef619aa) | | May 2022 |
-| [`The Github History of the Scala Language`](https://app.datacamp.com/workspace/w/877c46ed-9a58-485c-ae0d-b4d6a5737b66) | | May 2022 |
+| [`The Github History of the Scala Language`](https://app.datacamp.com/workspace/w/877c46ed-9a58-485c-ae0d-b4d6a5737b66) | Explore the real world project repository of Scalar from Git and GitHub. <li> Identify the top active developers by using their contribution history </li><li> Evaluate the dynamics of the community by plotting a histogram of the number of pull requests submitted by each user </li><li>Plot a chart of the project's activity to see the trend of contributions</li>| May 2022 |
 | [`Investigating Netflix Movies`](https://github.com/JieunKim-Econ/Datacamp_SQL/blob/main/Project/Investigating%20Netflix%20Movies.ipynb) | | April 2022 |
 
 
