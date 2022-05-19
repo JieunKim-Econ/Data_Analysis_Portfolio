@@ -1,4 +1,4 @@
-# Datacamp: SQL and Python Career tracks
+# Datacamp: Python and SQL Career tracks
 This repository presents my learning journey of Python and SQL with Datacamp🚀
 
 ## 🐍Python Project
