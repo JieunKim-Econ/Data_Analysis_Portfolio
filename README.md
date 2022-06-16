@@ -15,6 +15,9 @@ This repository presents my learning journey of Python and SQL with Datacamp🚀
 | Project | Summary | Completion Date |
 | --- | --- | --- |
 | [`Analyze International Debt Statistics`](https://github.com/JieunKim-Econ/Datacamp_Python_SQL/blob/main/Project/Analyze%20international%20debt%20statistics.ipynb)| Write SQL queries to investigate international debt using The World Bank data. <ul><li>The total amount of debt owed by the countries, the country with the highest debt </li><li>The average amount of debt owed by countriess across different debt indicators</li><li>The most common debt indicator</li></ul>| February 2022 |
+| [`Optimizing Online Sports Retail Revenue`](https://github.com/JieunKim-Econ/Datacamp_Python_SQL/blob/main/Project/Optimizing%20online%20sports%20retail%20revenue.ipynb)| As a product analyst for an online sports clothing company, <li> Produce the distribution of the price list to understand the price points of Nike and Adidas products </li><li>Group products by brand and price range to find the highest revenue brand</li><li>Examine the strength and direction of a correlation between revenue and review </li><li> Check if there is any clear pattern between the length of a product's description and its rating/review </li> <li> Analyze footwear and clothing product performance using keywords in the description </li> | June 2022 |
+
+
 
 ## Career Track
 | Course | Summary | Completion Date |
