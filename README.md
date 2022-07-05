@@ -1,5 +1,5 @@
-# Datacamp: Python and SQL Career tracks
-This repository presents my learning journey of Python and SQL with Datacamp🚀
+# Data analysis portfolio
+This repository curates my data analysis projects using Python and SQL.
 
 ## 🐍Python Project
 | Project | Summary | Completion Date |
